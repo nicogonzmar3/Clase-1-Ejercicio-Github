@@ -10,5 +10,6 @@ Areosa, Guillermo(210030) -> Usuario Github: areosaguillermo
 Gibbs, Nicolas (227347) -> Usuario Github: nicogibbs
 Ferreiro, Santiago(231691) -> Usuario Github: santiferreiro19
 Robatto, Martin(240935) -> Usuario Github: Martin-Robatto
+Gonzalez, Nicolas (199044) -> Usuario Github: nicogonzmar3
 
 Otero, Belen(228862) -> Usuario Github: belugabi
